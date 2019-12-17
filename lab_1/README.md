@@ -12,4 +12,4 @@ Lab_1: Здобуття навиків роботи з системою верс
 9. Командою `git pull` синхронізую локальну версію з Web.
 10. Зображення:
    
-   ![image]()
+   ![image](https://github.com/Sergo-python/git-1/blob/master/lab_1/123.png)
