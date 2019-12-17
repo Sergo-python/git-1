@@ -45,7 +45,7 @@ jobs:
         - make run
         - make test-app || true
         - if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then echo "$DOCKER_PASSWORD" | docker login -u "$DOCKER_USERNAME" --password-stdin; fi || true
-        - make push
+        - make push || true
 branches:
   only:
     - master
