@@ -1,0 +1,6 @@
+[
+  "tests/tests.py::TestClass::test_date_work_successfully",
+  "tests/tests.py::TestClass::test_empty_url",
+  "tests/tests.py::TestClass::test_home_work",
+  "tests/tests.py::TestClass::test_no_date_in_response"
+]
